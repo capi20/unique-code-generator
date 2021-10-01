@@ -1,6 +1,6 @@
 # Unique Code Generator
 
-This is a React app which generates unique codes. Just input the number of codes you want and get codes in text file.
+This is a React app which generates unique codes. You have to just enter number of codes you want to generate and you will get codes in text file.
 
 # Getting Started with Create React App
 
